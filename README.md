@@ -21,4 +21,5 @@ This project uses an **AI Agentic Workflow** to:
 ## ⚙️ How to Run
 1. Install Ollama and run `ollama pull llama3`.
 2. Install requirements: `pip install -r requirements.txt`.
-3. Run the app: `streamlit run app.py`.
+3. Run the app: `streamlit run app.py`.# GaurdRail-AI-Auditor
+# GaurdRail-AI-Auditor
