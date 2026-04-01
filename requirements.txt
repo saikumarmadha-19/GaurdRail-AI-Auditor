@@ -1,4 +1,4 @@
 pandas
-langchain
-openai
+langchain-ollama
 streamlit
+python-dotenv
